@@ -1,0 +1,38 @@
+
+# ============================================================
+#  Autonomous HR Agent — Backend
+#  Tested on Python 3.12.10  (3.11 bhi chalega, 3.13 abhi avoid)
+#  install:  pip install -r requirements.txt
+# ============================================================
+
+# ---- API layer ----
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-multipart==0.0.20          # file upload (resume/handbook) ke liye zaroori
+pydantic==2.10.4
+pydantic-settings==2.7.0
+email-validator==2.2.0            # schemas.py mein EmailStr use hua hai
+
+# ---- Database ----
+SQLAlchemy==2.0.36
+# psycopg2-binary==2.9.10         # SIRF tab uncomment karein jab Postgres/Supabase use karein
+
+# ---- LLM + Embeddings (NO transformers, NO torch) ----
+google-generativeai==0.8.3
+
+# ---- Vector store ----
+chromadb>=1.0.0,<2.0.0
+
+# ---- File parsing ----
+pdfplumber==0.11.4                # PDF resume/handbook text
+python-docx==1.1.2                # DOCX resume text
+fpdf2==2.8.2                      # sirf fake resumes generate karne ke liye
+
+# ---- Background jobs / scheduling ----
+APScheduler==3.11.0
+
+# ---- HTTP + templates ----
+httpx==0.28.1                     # free job boards se fetch
+Jinja2==3.1.4                     # email templates
+python-dotenv==1.0.1
+

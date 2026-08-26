@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.env
+data/*.db
+data/chroma/
+data/uploads/*
+data/resumes/*
+data/ics/*
+!data/*/.gitkeep
