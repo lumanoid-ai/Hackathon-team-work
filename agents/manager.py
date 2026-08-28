@@ -84,7 +84,10 @@ Hard rules:
 - if you are not sure tell the user about it, don't guess.
 - If a specialist reported nothing useful, leave them out entirely rather than padding.
 - No hedging words: "may", "could", "possibly", "it seems".
-- Under 200 words total."""
+- Under 200 words total.
+- If any specialist's report contains a "Where to look" section with links,
+  copy that entire section to the end of your brief, unchanged. Never rewrite,
+  shorten, or invent a link."""
 
 # ------------------------------------------------------------------ manager
 

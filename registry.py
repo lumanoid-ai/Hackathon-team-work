@@ -10,6 +10,7 @@ Nothing else in your code changes.
 
 from agents.stubs import hr_stub, analyst_stub
 from agents.scheduler import scheduler_agent
+from agents.researcher import research_agent
 
 # Stubs don't have a .role, so we attach one. Real agents will define
 # their own -- delete these two lines when you swap.
@@ -30,6 +31,7 @@ AGENTS = {
 
     # Yours. Real from day one -- no stub needed.
     "scheduler": scheduler_agent,
+    "researcher": research_agent,
 }
 
 

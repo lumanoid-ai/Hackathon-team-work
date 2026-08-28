@@ -24,7 +24,7 @@ GROQ_MODEL = os.getenv("GROQ_MODEL", "openai/gpt-oss-120b")
 
 GEMINI_URL = (
     "https://generativelanguage.googleapis.com/v1beta/models/"
-    "gemini-2.5-flash:generateContent"
+    "gemini-2.0-flash:generateContent"
 )
 GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
 
@@ -95,7 +95,7 @@ def _groq(system_prompt: str, user_message: str) -> str:
         GROQ_URL,
         headers={"Authorization": f"Bearer {GROQ_KEY}"},
         json={
-            "model": GROQ_MODEL, 
+            "model": GROQ_MODEL,
             "messages": [
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_message},
@@ -111,6 +111,16 @@ def _groq(system_prompt: str, user_message: str) -> str:
 def _mock(system_prompt: str, user_message: str) -> str:
     """Fake AI so you can build and test with no API key and no internet."""
     text = user_message.lower()
+
+    # Researcher's query builder
+    if "turn the user's request into one good web search query" in system_prompt.lower():
+        return json.dumps({"query": " ".join(user_message.split()[1:7]),
+                           "kind": "general"})
+
+    # Researcher's answer writer
+    if "you are a research assistant" in system_prompt.lower():
+        return ("**Answer:** This is where the sourced answer appears.\n"
+                "**Worth knowing:** switch PROVIDER off mock for the real one.")
 
     # Scheduler's action router
     if "you handle calendar requests" in system_prompt.lower():
