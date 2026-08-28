@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+token.json
+credentials.json
+mock_calendar.json
