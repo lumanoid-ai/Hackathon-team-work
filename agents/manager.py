@@ -37,6 +37,8 @@ Routing rules:
 - Anything about dates, times, availability, who is free, meetings, interviews to be booked, birthdays or anniversaries goes to scheduler. Never send these to hr.
 - Anything about writing job descriptions, screening or scoring candidates, interview questions, onboarding, or company policy goes to hr.
 - Anything requiring a number, a metric, a trend, or an explanation of why something changed goes to data_analyst.
+- Questions about OUR company's own data, people, or performance go to data_analyst or hr. Only send to researcher when the answer requires information from outside the company.
+- When the analyst finds a problem in a people process (hiring, screening, retention, onboarding), hr should be a second subtask that acts on the finding, depending on the analyst's result.
 
 How to split:
 - Use the FEWEST subtasks that fully answer the request. Two is usually right. Only use four if the request genuinely has four separate parts.
