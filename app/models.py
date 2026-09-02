@@ -104,6 +104,7 @@ class Interview(Base):
     status: Mapped[str] = mapped_column(String(30), default="scheduled")  # scheduled|done|no_show
     reminder_sent: Mapped[bool] = mapped_column(Boolean, default=False)
     created_at: Mapped[datetime] = mapped_column(DateTime, default=_now)
+    calendar_event_id: Mapped[str | None] = mapped_column(String(200), nullable=True)
 
 
 class Artifact(Base):
@@ -175,4 +176,15 @@ class HiringMetric(Base):
     from_status: Mapped[str] = mapped_column(String(40), default="")
     to_status: Mapped[str] = mapped_column(String(40))
     hours_in_previous: Mapped[float] = mapped_column(Float, default=0.0)
+    created_at: Mapped[datetime] = mapped_column(DateTime, default=_now)
+
+class CalendarCredential(Base):
+    """Interviewer ka Google OAuth token. Ek baar connect, phir hamesha kaam karta hai."""
+    __tablename__ = "calendar_credentials"
+    id: Mapped[str] = mapped_column(String(36), primary_key=True, default=_uid)
+    email: Mapped[str] = mapped_column(String(200), unique=True, index=True)
+    token: Mapped[str | None] = mapped_column(Text, nullable=True)
+    refresh_token: Mapped[str | None] = mapped_column(Text, nullable=True)
+    scopes: Mapped[list] = mapped_column(JSON, default=list)
+    expiry: Mapped[datetime | None] = mapped_column(DateTime, nullable=True)
     created_at: Mapped[datetime] = mapped_column(DateTime, default=_now)

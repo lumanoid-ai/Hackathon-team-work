@@ -37,6 +37,11 @@ class Settings(BaseSettings):
     ICS_DIR: str = "./data/ics"
     CHROMA_DIR: str = "./data/chroma"
 
+    # Google Calendar
+    GOOGLE_CLIENT_ID: str = ""
+    GOOGLE_CLIENT_SECRET: str = ""
+    GOOGLE_REDIRECT_URI: str = "http://localhost:8000/api/calendar/callback"
+
     @property
     def sync_queries(self) -> list[str]:
         return [q.strip() for q in self.JOB_SYNC_QUERIES.split(",") if q.strip()]

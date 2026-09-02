@@ -7,6 +7,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from app.database import init_db
 from app.routers import admin, agent, applications, events, jobs
 from app.services.scheduler import start_scheduler
+from app.routers import admin, agent, applications, calendar, events, jobs
 
 
 @asynccontextmanager
@@ -24,6 +25,7 @@ app.include_router(jobs.router)
 app.include_router(applications.router)
 app.include_router(agent.router)
 app.include_router(events.router)
+app.include_router(calendar.router)
 
 
 @app.get("/health")
