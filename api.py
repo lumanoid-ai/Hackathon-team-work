@@ -20,6 +20,8 @@ connection.
 from __future__ import annotations
 
 import argparse
+import datetime
+import decimal
 import json
 import queue
 import threading
@@ -30,11 +32,30 @@ from dotenv import load_dotenv
 load_dotenv()
 
 from flask import Flask, Response, jsonify, request
+from flask.json.provider import DefaultJSONProvider
 
 from analyst.agent import DataAnalystAgent
 from analyst.events import Event
 
+
+class IsoJSON(DefaultJSONProvider):
+    """
+    Dates as 2026-08-16, not 'Sun, 16 Aug 2026 00:00:00 GMT'.
+
+    Flask's default renders dates in HTTP header format, which is useless
+    to a charting frontend and to anything that has to sort them.
+    """
+
+    def default(self, o: Any):
+        if isinstance(o, (datetime.date, datetime.datetime)):
+            return o.isoformat()
+        if isinstance(o, decimal.Decimal):
+            return float(o)
+        return super().default(o)
+
+
 app = Flask(__name__)
+app.json = IsoJSON(app)
 
 _agent: DataAnalystAgent | None = None
 _lock = threading.Lock()
@@ -53,6 +74,22 @@ def _error(message: str, status: int = 400):
 # ---------------------------------------------------------------------------
 # Health and introspection
 # ---------------------------------------------------------------------------
+
+
+@app.get("/")
+def index():
+    """So opening the API in a browser shows something useful, not a 404."""
+    return jsonify(
+        {
+            "service": "Data Analyst agent",
+            "endpoints": {
+                "GET /health": "service and schema status",
+                "GET /tables": "tables the agent can see (also warms the schema)",
+                "POST /ask": "{'question': '...'} -> narrative, sql, chart, events",
+                "POST /ask/stream": "same, streamed as server-sent events",
+            },
+        }
+    )
 
 
 @app.get("/health")
