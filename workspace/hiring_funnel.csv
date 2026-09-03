@@ -1,0 +1,341 @@
+candidate_id,req_id,department,role,stage,source,applied_date,stage_date,days_in_stage,recruiter_email
+C0311,R-302,Marketing,Growth Analyst,Rejected,Referral,2026-08-16,2026-08-21,5,
+C0002,R-101,Engineering,Senior Backend Engineer,Phone Screen,LinkedIn,2026-07-12,2026-08-05,24,s.malik@company.com
+C0106,R-103,Engineering,ML Engineer,Phone Screen,Careers Page,2026-09-04,2026-09-30,26,s.malik@company.com
+C0314,R-301,Marketing,Content Marketer,Rejected,Referral,2026-08-03,2026-08-10,7,f.ahmed@company.com
+C0263,R-202,Sales,Sales Development Rep,Offer Extended,Job Board,2026-07-09,2026-07-26,17,n.hussain@company.com
+C0199,R-202,Sales,Sales Development Rep,Rejected,Job Board,2026-08-28,2026-09-07,10,n.hussain@company.com
+C0080,R-102,Engineering,Frontend Engineer,Rejected,LinkedIn,2026-07-18,2026-08-01,14,s.malik@company.com
+C0183,R-202,Sales,Sales Development Rep,Offer Extended,Careers Page,2026-08-23,2026-09-26,34,n.hussain@company.com
+C0215,R-201,Sales,Account Executive,Rejected,LinkedIn,2026-07-11,2026-07-17,6,n.hussain@company.com
+C0037,R-101,Engineering,Senior Backend Engineer,Rejected,Agency,2026-07-31,2026-08-04,4,s.malik@company.com
+C0044,R-101,Engineering,Senior Backend Engineer,Phone Screen,Referral,2026-09-13,2026-09-23,10,s.malik@company.com
+C0051,R-101,Engineering,Senior Backend Engineer,Onsite,LinkedIn,2026-08-06,2026-08-17,11,s.malik@company.com
+C0154,R-101,Engineering,Senior Backend Engineer,Phone Screen,Job Board,2026-07-19,2026-08-19,31,s.malik@company.com
+C0277,R-302,Marketing,Growth Analyst,Rejected,Careers Page,2026-07-18,2026-07-26,8,f.ahmed@company.com
+C0161,R-102,Engineering,Frontend Engineer,Applied,LinkedIn,2026-08-18,2026-08-29,11,s.malik@company.com
+C0268,R-202,Sales,Sales Development Rep,Rejected,Referral,2026-07-09,2026-07-13,4,n.hussain@company.com
+C0011,R-101,Engineering,Senior Backend Engineer,Phone Screen,LinkedIn,2026-08-01,2026-08-24,23,s.malik@company.com
+C0295,R-302,Marketing,Growth Analyst,Offer Extended,Careers Page,2026-09-19,2026-09-22,3,f.ahmed@company.com
+C0191,R-201,Sales,Account Executive,Rejected,Job Board,2026-07-23,2026-07-26,3,n.hussain@company.com
+C0164,R-102,Engineering,Frontend Engineer,Applied,Agency,2026-09-14,2026-09-20,6,s.malik@company.com
+C0083,R-104,Engineering,DevOps Engineer,Applied,LinkedIn,2026-08-16,2026-08-30,14,s.malik@company.com
+C0143,R-101,Engineering,Senior Backend Engineer,Applied,Job Board,2026-07-31,2026-08-13,13,s.malik@company.com
+C0063,R-101,Engineering,Senior Backend Engineer,Rejected,LinkedIn,2026-09-21,2026-09-30,9,s.malik@company.com
+C0285,R-301,Marketing,Content Marketer,Offer Extended,Referral,2026-08-20,2026-08-24,4,f.ahmed@company.com
+C0075,R-101,Engineering,Senior Backend Engineer,Hired,Job Board,2026-09-25,2026-09-30,5,s.malik@company.com
+C0078,R-104,Engineering,DevOps Engineer,Phone Screen,LinkedIn,2026-07-12,2026-08-27,46,s.malik@company.com
+C0211,R-202,Sales,Sales Development Rep,Rejected,Referral,2026-07-24,2026-08-02,9,n.hussain@company.com
+C0255,R-201,Sales,Account Executive,Hired,Job Board,2026-07-16,2026-07-22,6,n.hussain@company.com
+C0267,R-201,Sales,Account Executive,Onsite,Referral,2026-09-20,2026-09-24,4,n.hussain@company.com
+C0205,R-201,Sales,Account Executive,Offer Extended,Job Board,2026-08-12,2026-09-16,35,n.hussain@company.com
+C0010,R-103,Engineering,ML Engineer,Applied,Referral,2026-08-08,2026-08-21,13,s.malik@company.com
+C0260,R-202,Sales,Sales Development Rep,Hired,LinkedIn,2026-08-30,2026-09-08,9,n.hussain@company.com
+C0216,R-202,Sales,Sales Development Rep,Offer Extended,Referral,2026-08-04,2026-08-16,12,n.hussain@company.com
+C0092,R-104,Engineering,DevOps Engineer,Phone Screen,Job Board,2026-07-22,2026-08-29,38,s.malik@company.com
+C0050,R-103,Engineering,ML Engineer,Rejected,LinkedIn,2026-07-22,2026-07-28,6,s.malik@company.com
+C0048,R-101,Engineering,Senior Backend Engineer,Rejected,Referral,2026-07-21,2026-07-26,5,s.malik@company.com
+C0207,R-201,Sales,Account Executive,Rejected,Job Board,2026-08-15,2026-08-18,3,n.hussain@company.com
+C0003,R-101,Engineering,Senior Backend Engineer,Phone Screen,Job Board,2026-09-08,2026-09-30,22,s.malik@company.com
+C0073,R-104,Engineering,DevOps Engineer,Phone Screen,Job Board,2026-09-15,2026-09-30,15,s.malik@company.com
+C0133,R-104,Engineering,DevOps Engineer,Onsite,Job Board,2026-07-15,2026-07-18,3,s.malik@company.com
+C0060,R-102,Engineering,Frontend Engineer,Applied,Job Board,2026-07-14,2026-07-22,8,s.malik@company.com
+C0013,R-101,Engineering,Senior Backend Engineer,Applied,LinkedIn,2026-08-10,2026-08-18,8,s.malik@company.com
+C0159,R-101,Engineering,Senior Backend Engineer,Phone Screen,Job Board,2026-07-04,2026-07-23,19,s.malik@company.com
+C0243,R-202,Sales,Sales Development Rep,Applied,Job Board,2026-07-11,2026-07-17,6,n.hussain@company.com
+C0312,R-302,Marketing,Growth Analyst,Offer Extended,Agency,2026-08-04,2026-08-15,11,f.ahmed@company.com
+C0188,R-201,Sales,Account Executive,Applied,Referral,2026-07-17,2026-07-31,14,n.hussain@company.com
+C0198,R-201,Sales,Account Executive,Applied,Job Board,2026-09-13,2026-09-23,10,n.hussain@company.com
+C0111,R-102,Engineering,Frontend Engineer,Applied,Job Board,2026-09-01,2026-09-11,10,s.malik@company.com
+C0022,R-101,Engineering,Senior Backend Engineer,Rejected,LinkedIn,2026-09-20,2026-09-30,10,s.malik@company.com
+C0014,R-102,Engineering,Frontend Engineer,Rejected,Job Board,2026-08-10,2026-08-15,5,s.malik@company.com
+C0179,R-202,Sales,Sales Development Rep,Applied,Careers Page,2026-09-10,2026-09-17,7,n.hussain@company.com
+C0177,R-201,Sales,Account Executive,Phone Screen,LinkedIn,2026-08-17,2026-08-29,12,n.hussain@company.com
+C0025,R-101,Engineering,Senior Backend Engineer,Applied,Job Board,2026-07-09,2026-07-23,14,s.malik@company.com
+C0332,R-301,Marketing,Content Marketer,Rejected,Referral,2026-08-31,2026-09-04,4,f.ahmed@company.com
+C0201,R-201,Sales,Account Executive,Onsite,Careers Page,2026-08-22,2026-08-29,7,n.hussain@company.com
+C0228,R-202,Sales,Sales Development Rep,Onsite,Agency,2026-09-21,2026-09-30,9,n.hussain@company.com
+C0125,R-101,Engineering,Senior Backend Engineer,Phone Screen,Job Board,2026-07-27,2026-09-03,38,s.malik@company.com
+C0027,R-104,Engineering,DevOps Engineer,Rejected,Agency,2026-08-06,2026-08-19,13,s.malik@company.com
+C0088,R-101,Engineering,Senior Backend Engineer,Rejected,Job Board,2026-08-18,2026-08-27,9,
+C0284,R-301,Marketing,Content Marketer,Hired,Job Board,2026-08-17,2026-08-24,7,f.ahmed@company.com
+C0142,R-103,Engineering,ML Engineer,Phone Screen,Agency,2026-08-30,2026-09-30,31,s.malik@company.com
+C0319,R-301,Marketing,Content Marketer,Applied,Job Board,2026-08-30,2026-09-09,10,f.ahmed@company.com
+C0116,R-102,Engineering,Frontend Engineer,Applied,Job Board,2026-08-05,2026-08-18,13,s.malik@company.com
+C0104,R-103,Engineering,ML Engineer,Applied,Job Board,2026-09-05,2026-09-08,3,s.malik@company.com
+C0195,R-201,Sales,Account Executive,Rejected,LinkedIn,2026-09-23,2026-09-30,7,n.hussain@company.com
+C0122,R-101,Engineering,Senior Backend Engineer,Applied,Careers Page,2026-08-08,2026-08-11,3,s.malik@company.com
+C0293,R-301,Marketing,Content Marketer,Onsite,Referral,2026-08-29,2026-09-06,8,f.ahmed@company.com
+C0337,R-301,Marketing,Content Marketer,Hired,Job Board,2026-08-01,2026-08-03,2,f.ahmed@company.com
+C0244,R-202,Sales,Sales Development Rep,Rejected,Job Board,2026-09-06,2026-09-09,3,n.hussain@company.com
+C0110,R-103,Engineering,ML Engineer,Applied,Job Board,2026-08-09,2026-08-19,10,
+C0265,R-201,Sales,Account Executive,Phone Screen,LinkedIn,2026-08-15,2026-08-20,5,n.hussain@company.com
+C0227,R-201,Sales,Account Executive,Applied,Job Board,2026-09-06,2026-09-16,10,n.hussain@company.com
+C0315,R-302,Marketing,Growth Analyst,Onsite,Referral,2026-09-18,2026-09-24,6,f.ahmed@company.com
+C0054,R-102,Engineering,Frontend Engineer,Phone Screen,LinkedIn,2026-08-26,2026-09-30,35,s.malik@company.com
+C0262,R-202,Sales,Sales Development Rep,Applied,Referral,2026-08-08,2026-08-11,3,
+C0068,R-102,Engineering,Frontend Engineer,Phone Screen,LinkedIn,2026-09-24,2026-09-30,6,s.malik@company.com
+C0236,R-202,Sales,Sales Development Rep,Offer Extended,Job Board,2026-07-06,2026-08-03,28,n.hussain@company.com
+C0292,R-301,Marketing,Content Marketer,Applied,LinkedIn,2026-07-18,2026-07-23,5,f.ahmed@company.com
+C0120,R-103,Engineering,ML Engineer,Phone Screen,Job Board,2026-07-28,2026-08-16,19,s.malik@company.com
+C0222,R-201,Sales,Account Executive,Onsite,Referral,2026-07-10,2026-07-19,9,n.hussain@company.com
+C0086,R-104,Engineering,DevOps Engineer,Phone Screen,Job Board,2026-07-20,2026-08-20,31,s.malik@company.com
+C0320,R-301,Marketing,Content Marketer,Phone Screen,Job Board,2026-07-21,2026-07-29,8,f.ahmed@company.com
+C0081,R-103,Engineering,ML Engineer,Rejected,Careers Page,2026-09-21,2026-09-30,9,s.malik@company.com
+C0023,R-102,Engineering,Frontend Engineer,Phone Screen,LinkedIn,2026-09-06,2026-09-24,18,s.malik@company.com
+C0076,R-102,Engineering,Frontend Engineer,Applied,LinkedIn,2026-08-30,2026-09-10,11,s.malik@company.com
+C0288,R-302,Marketing,Growth Analyst,Rejected,Agency,2026-08-02,2026-08-05,3,f.ahmed@company.com
+C0282,R-302,Marketing,Growth Analyst,Onsite,Careers Page,2026-07-28,2026-07-30,2,f.ahmed@company.com
+C0036,R-101,Engineering,Senior Backend Engineer,Phone Screen,Careers Page,2026-09-09,2026-09-30,21,
+C0318,R-302,Marketing,Growth Analyst,Rejected,LinkedIn,2026-09-11,2026-09-19,8,f.ahmed@company.com
+C0221,R-201,Sales,Account Executive,Offer Extended,Careers Page,2026-08-15,2026-08-31,16,n.hussain@company.com
+C0232,R-202,Sales,Sales Development Rep,Rejected,Job Board,2026-07-20,2026-07-29,9,
+C0067,R-103,Engineering,ML Engineer,Applied,Job Board,2026-09-09,2026-09-25,16,s.malik@company.com
+C0085,R-103,Engineering,ML Engineer,Applied,Careers Page,2026-07-15,2026-07-19,4,s.malik@company.com
+C0209,R-202,Sales,Sales Development Rep,Applied,LinkedIn,2026-07-29,2026-08-12,14,n.hussain@company.com
+C0217,R-201,Sales,Account Executive,Onsite,LinkedIn,2026-09-25,2026-09-30,5,n.hussain@company.com
+C0157,R-104,Engineering,DevOps Engineer,Rejected,LinkedIn,2026-07-20,2026-07-25,5,s.malik@company.com
+C0042,R-102,Engineering,Frontend Engineer,Applied,Job Board,2026-07-24,2026-07-27,3,s.malik@company.com
+C0123,R-101,Engineering,Senior Backend Engineer,Phone Screen,Referral,2026-09-15,2026-09-24,9,s.malik@company.com
+C0298,R-301,Marketing,Content Marketer,Offer Extended,Referral,2026-07-21,2026-07-25,4,f.ahmed@company.com
+C0124,R-104,Engineering,DevOps Engineer,Phone Screen,Job Board,2026-09-25,2026-09-30,5,s.malik@company.com
+C0103,R-101,Engineering,Senior Backend Engineer,Phone Screen,Job Board,2026-08-17,2026-09-06,20,s.malik@company.com
+C0041,R-101,Engineering,Senior Backend Engineer,Onsite,LinkedIn,2026-09-13,2026-09-22,9,s.malik@company.com
+C0193,R-201,Sales,Account Executive,Phone Screen,LinkedIn,2026-08-23,2026-09-02,10,n.hussain@company.com
+C0094,R-103,Engineering,ML Engineer,Onsite,Referral,2026-08-27,2026-08-30,3,s.malik@company.com
+C0223,R-202,Sales,Sales Development Rep,Offer Extended,Job Board,2026-08-23,2026-09-15,23,n.hussain@company.com
+C0038,R-104,Engineering,DevOps Engineer,Applied,Referral,2026-07-19,2026-07-23,4,s.malik@company.com
+C0065,R-103,Engineering,ML Engineer,Applied,Job Board,2026-08-18,2026-08-31,13,s.malik@company.com
+C0129,R-102,Engineering,Frontend Engineer,Phone Screen,Job Board,2026-09-21,2026-09-30,9,s.malik@company.com
+C0302,R-302,Marketing,Growth Analyst,Rejected,Referral,2026-07-11,2026-07-12,1,
+C0100,R-103,Engineering,ML Engineer,Phone Screen,Careers Page,2026-08-22,2026-09-21,30,s.malik@company.com
+C0162,R-104,Engineering,DevOps Engineer,Rejected,LinkedIn,2026-09-09,2026-09-21,12,s.malik@company.com
+C0028,R-103,Engineering,ML Engineer,Phone Screen,Job Board,2026-07-20,2026-08-14,25,s.malik@company.com
+C0070,R-104,Engineering,DevOps Engineer,Phone Screen,Job Board,2026-08-05,2026-09-05,31,s.malik@company.com
+C0242,R-201,Sales,Account Executive,Phone Screen,Job Board,2026-07-19,2026-08-04,16,n.hussain@company.com
+C0057,R-101,Engineering,Senior Backend Engineer,Rejected,LinkedIn,2026-08-01,2026-08-13,12,s.malik@company.com
+C0220,R-201,Sales,Account Executive,Offer Extended,Referral,2026-07-17,2026-08-01,15,n.hussain@company.com
+C0335,R-301,Marketing,Content Marketer,Phone Screen,Referral,2026-08-02,2026-08-09,7,f.ahmed@company.com
+C0289,R-301,Marketing,Content Marketer,Onsite,Careers Page,2026-08-26,2026-08-29,3,f.ahmed@company.com
+C0272,R-201,Sales,Account Executive,Rejected,Careers Page,2026-08-10,2026-08-26,16,n.hussain@company.com
+C0007,R-104,Engineering,DevOps Engineer,Phone Screen,Agency,2026-08-29,2026-09-18,20,s.malik@company.com
+C0112,R-104,Engineering,DevOps Engineer,Phone Screen,Job Board,2026-07-14,2026-08-03,20,s.malik@company.com
+C0331,R-301,Marketing,Content Marketer,Phone Screen,Referral,2026-08-08,2026-08-16,8,f.ahmed@company.com
+C0087,R-104,Engineering,DevOps Engineer,Phone Screen,LinkedIn,2026-09-03,2026-09-30,27,s.malik@company.com
+C0127,R-104,Engineering,DevOps Engineer,Phone Screen,Job Board,2026-07-16,2026-08-10,25,s.malik@company.com
+C0151,R-104,Engineering,DevOps Engineer,Applied,Job Board,2026-07-17,2026-07-24,7,s.malik@company.com
+C0200,R-201,Sales,Account Executive,Rejected,LinkedIn,2026-09-22,2026-09-30,8,n.hussain@company.com
+C0148,R-103,Engineering,ML Engineer,Hired,LinkedIn,2026-08-12,2026-08-27,15,s.malik@company.com
+C0026,R-102,Engineering,Frontend Engineer,Applied,Job Board,2026-09-09,2026-09-13,4,s.malik@company.com
+C0176,R-202,Sales,Sales Development Rep,Rejected,Careers Page,2026-08-16,2026-08-19,3,n.hussain@company.com
+C0210,R-201,Sales,Account Executive,Offer Extended,Job Board,2026-08-04,2026-08-18,14,n.hussain@company.com
+C0062,R-102,Engineering,Frontend Engineer,Applied,Job Board,2026-08-21,2026-08-28,7,s.malik@company.com
+C0324,R-301,Marketing,Content Marketer,Rejected,Job Board,2026-07-22,2026-08-01,10,f.ahmed@company.com
+C0167,R-103,Engineering,ML Engineer,Applied,Careers Page,2026-08-24,2026-08-30,6,
+C0174,R-202,Sales,Sales Development Rep,Rejected,Referral,2026-08-13,2026-08-21,8,n.hussain@company.com
+C0225,R-202,Sales,Sales Development Rep,Applied,Careers Page,2026-08-01,2026-08-09,8,n.hussain@company.com
+C0290,R-302,Marketing,Growth Analyst,Hired,Job Board,2026-09-16,2026-09-26,10,f.ahmed@company.com
+C0071,R-104,Engineering,DevOps Engineer,Phone Screen,Careers Page,2026-09-22,2026-09-30,8,s.malik@company.com
+C0040,R-104,Engineering,DevOps Engineer,Applied,LinkedIn,2026-07-19,2026-07-30,11,s.malik@company.com
+C0280,R-302,Marketing,Growth Analyst,Applied,Careers Page,2026-08-22,2026-09-02,11,f.ahmed@company.com
+C0118,R-103,Engineering,ML Engineer,Applied,Job Board,2026-08-09,2026-08-11,2,s.malik@company.com
+C0270,R-202,Sales,Sales Development Rep,Rejected,LinkedIn,2026-08-29,2026-09-11,13,n.hussain@company.com
+C0059,R-102,Engineering,Frontend Engineer,Rejected,LinkedIn,2026-08-12,2026-08-26,14,s.malik@company.com
+C0278,R-301,Marketing,Content Marketer,Offer Extended,Referral,2026-07-11,2026-07-15,4,f.ahmed@company.com
+C0316,R-302,Marketing,Growth Analyst,Applied,Referral,2026-09-16,2026-09-22,6,f.ahmed@company.com
+C0182,R-201,Sales,Account Executive,Rejected,LinkedIn,2026-08-28,2026-09-04,7,n.hussain@company.com
+C0310,R-301,Marketing,Content Marketer,Rejected,Careers Page,2026-08-10,2026-08-15,5,f.ahmed@company.com
+C0237,R-201,Sales,Account Executive,Phone Screen,Referral,2026-07-20,2026-07-21,1,n.hussain@company.com
+C0077,R-101,Engineering,Senior Backend Engineer,Phone Screen,Careers Page,2026-09-12,2026-09-30,18,s.malik@company.com
+C0190,R-201,Sales,Account Executive,Phone Screen,LinkedIn,2026-09-15,2026-09-17,2,n.hussain@company.com
+C0187,R-201,Sales,Account Executive,Rejected,Agency,2026-08-28,2026-08-31,3,n.hussain@company.com
+C0308,R-301,Marketing,Content Marketer,Phone Screen,Referral,2026-08-04,2026-08-09,5,f.ahmed@company.com
+C0033,R-104,Engineering,DevOps Engineer,Phone Screen,Referral,2026-07-18,2026-08-10,23,s.malik@company.com
+C0230,R-201,Sales,Account Executive,Applied,Careers Page,2026-09-02,2026-09-11,9,n.hussain@company.com
+C0101,R-102,Engineering,Frontend Engineer,Applied,Job Board,2026-09-19,2026-09-24,5,s.malik@company.com
+C0218,R-202,Sales,Sales Development Rep,Applied,Referral,2026-09-15,2026-09-17,2,
+C0339,R-301,Marketing,Content Marketer,Rejected,LinkedIn,2026-09-09,2026-09-25,16,f.ahmed@company.com
+C0340,R-302,Marketing,Growth Analyst,Onsite,LinkedIn,2026-08-13,2026-08-20,7,f.ahmed@company.com
+C0297,R-301,Marketing,Content Marketer,Rejected,LinkedIn,2026-09-03,2026-09-19,16,f.ahmed@company.com
+C0307,R-302,Marketing,Growth Analyst,Rejected,Careers Page,2026-08-28,2026-09-01,4,f.ahmed@company.com
+C0178,R-202,Sales,Sales Development Rep,Offer Extended,Careers Page,2026-08-17,2026-09-03,17,n.hussain@company.com
+C0256,R-201,Sales,Account Executive,Phone Screen,Careers Page,2026-07-19,2026-08-03,15,n.hussain@company.com
+C0163,R-103,Engineering,ML Engineer,Phone Screen,Careers Page,2026-09-02,2026-09-30,28,s.malik@company.com
+C0097,R-102,Engineering,Frontend Engineer,Applied,Job Board,2026-07-15,2026-07-26,11,s.malik@company.com
+C0329,R-302,Marketing,Growth Analyst,Offer Extended,Referral,2026-07-30,2026-08-04,5,f.ahmed@company.com
+C0098,R-104,Engineering,DevOps Engineer,Phone Screen,Job Board,2026-08-02,2026-09-08,37,s.malik@company.com
+C0252,R-202,Sales,Sales Development Rep,Hired,Job Board,2026-08-26,2026-09-04,9,n.hussain@company.com
+C0108,R-102,Engineering,Frontend Engineer,Onsite,Job Board,2026-09-24,2026-09-30,6,s.malik@company.com
+C0286,R-301,Marketing,Content Marketer,Rejected,LinkedIn,2026-07-24,2026-08-02,9,f.ahmed@company.com
+C0165,R-104,Engineering,DevOps Engineer,Phone Screen,Job Board,2026-08-19,2026-09-12,24,s.malik@company.com
+C0035,R-104,Engineering,DevOps Engineer,Applied,LinkedIn,2026-09-09,2026-09-14,5,s.malik@company.com
+C0047,R-101,Engineering,Senior Backend Engineer,Applied,LinkedIn,2026-08-03,2026-08-07,4,s.malik@company.com
+C0105,R-103,Engineering,ML Engineer,Phone Screen,Careers Page,2026-07-24,2026-08-24,31,s.malik@company.com
+C0074,R-102,Engineering,Frontend Engineer,Phone Screen,LinkedIn,2026-09-23,2026-09-30,7,s.malik@company.com
+C0009,R-103,Engineering,ML Engineer,Rejected,Careers Page,2026-07-17,2026-07-25,8,s.malik@company.com
+C0247,R-202,Sales,Sales Development Rep,Rejected,LinkedIn,2026-09-08,2026-09-23,15,n.hussain@company.com
+C0018,R-102,Engineering,Frontend Engineer,Offer Extended,Job Board,2026-07-09,2026-07-17,8,s.malik@company.com
+C0305,R-302,Marketing,Growth Analyst,Phone Screen,LinkedIn,2026-07-15,2026-07-19,4,f.ahmed@company.com
+C0139,R-103,Engineering,ML Engineer,Applied,LinkedIn,2026-08-25,2026-09-09,15,s.malik@company.com
+C0017,R-102,Engineering,Frontend Engineer,Phone Screen,LinkedIn,2026-07-07,2026-08-21,45,s.malik@company.com
+C0250,R-202,Sales,Sales Development Rep,Applied,Referral,2026-07-31,2026-08-09,9,n.hussain@company.com
+C0089,R-103,Engineering,ML Engineer,Applied,Referral,2026-08-27,2026-09-06,10,s.malik@company.com
+C0109,R-104,Engineering,DevOps Engineer,Rejected,LinkedIn,2026-08-08,2026-08-15,7,s.malik@company.com
+C0012,R-103,Engineering,ML Engineer,Rejected,Job Board,2026-09-14,2026-09-19,5,s.malik@company.com
+C0330,R-302,Marketing,Growth Analyst,Offer Extended,Job Board,2026-08-10,2026-08-21,11,f.ahmed@company.com
+C0326,R-301,Marketing,Content Marketer,Applied,Referral,2026-08-23,2026-08-27,4,f.ahmed@company.com
+C0241,R-202,Sales,Sales Development Rep,Applied,LinkedIn,2026-09-25,2026-09-30,5,n.hussain@company.com
+C0001,R-101,Engineering,Senior Backend Engineer,Applied,LinkedIn,2026-07-29,2026-08-02,4,s.malik@company.com
+C0066,R-104,Engineering,DevOps Engineer,Phone Screen,Job Board,2026-08-30,2026-09-30,31,s.malik@company.com
+C0102,R-103,Engineering,ML Engineer,Rejected,Job Board,2026-07-20,2026-08-03,14,s.malik@company.com
+C0276,R-302,Marketing,Growth Analyst,Phone Screen,LinkedIn,2026-09-09,2026-09-16,7,f.ahmed@company.com
+C0186,R-202,Sales,Sales Development Rep,Offer Extended,Agency,2026-08-15,2026-08-30,15,n.hussain@company.com
+C0257,R-201,Sales,Account Executive,Rejected,Careers Page,2026-07-04,2026-07-12,8,
+C0301,R-301,Marketing,Content Marketer,Offer Extended,LinkedIn,2026-09-13,2026-09-17,4,f.ahmed@company.com
+C0336,R-301,Marketing,Content Marketer,Rejected,Referral,2026-09-10,2026-09-17,7,f.ahmed@company.com
+C0144,R-101,Engineering,Senior Backend Engineer,Phone Screen,LinkedIn,2026-07-15,2026-08-16,32,s.malik@company.com
+C0203,R-202,Sales,Sales Development Rep,Rejected,Job Board,2026-08-30,2026-09-02,3,n.hussain@company.com
+C0226,R-201,Sales,Account Executive,Onsite,Referral,2026-08-13,2026-08-16,3,n.hussain@company.com
+C0248,R-201,Sales,Account Executive,Hired,Careers Page,2026-09-18,2026-09-22,4,n.hussain@company.com
+C0251,R-202,Sales,Sales Development Rep,Phone Screen,LinkedIn,2026-08-30,2026-09-15,16,n.hussain@company.com
+C0304,R-302,Marketing,Growth Analyst,Rejected,Referral,2026-08-15,2026-08-20,5,f.ahmed@company.com
+C0034,R-101,Engineering,Senior Backend Engineer,Applied,Job Board,2026-07-14,2026-07-19,5,s.malik@company.com
+C0117,R-103,Engineering,ML Engineer,Rejected,Careers Page,2026-08-11,2026-08-16,5,s.malik@company.com
+C0015,R-104,Engineering,DevOps Engineer,Rejected,Job Board,2026-07-30,2026-08-05,6,s.malik@company.com
+C0231,R-202,Sales,Sales Development Rep,Hired,Careers Page,2026-09-21,2026-09-30,9,n.hussain@company.com
+C0131,R-103,Engineering,ML Engineer,Phone Screen,Job Board,2026-08-12,2026-09-21,40,s.malik@company.com
+C0024,R-104,Engineering,DevOps Engineer,Applied,Agency,2026-08-20,2026-08-25,5,
+C0126,R-101,Engineering,Senior Backend Engineer,Applied,LinkedIn,2026-07-10,2026-07-14,4,
+C0150,R-104,Engineering,DevOps Engineer,Phone Screen,Referral,2026-08-05,2026-08-29,24,s.malik@company.com
+C0184,R-202,Sales,Sales Development Rep,Offer Extended,Agency,2026-08-05,2026-08-20,15,n.hussain@company.com
+C0053,R-101,Engineering,Senior Backend Engineer,Applied,Job Board,2026-08-05,2026-08-07,2,
+C0238,R-202,Sales,Sales Development Rep,Rejected,LinkedIn,2026-09-21,2026-09-25,4,
+C0030,R-101,Engineering,Senior Backend Engineer,Applied,Careers Page,2026-08-12,2026-08-15,3,s.malik@company.com
+C0261,R-201,Sales,Account Executive,Applied,LinkedIn,2026-07-20,2026-07-30,10,n.hussain@company.com
+C0275,R-202,Sales,Sales Development Rep,Applied,Referral,2026-08-21,2026-09-03,13,n.hussain@company.com
+C0306,R-302,Marketing,Growth Analyst,Onsite,Referral,2026-07-26,2026-07-30,4,f.ahmed@company.com
+C0043,R-102,Engineering,Frontend Engineer,Phone Screen,Agency,2026-09-11,2026-09-30,19,s.malik@company.com
+C0039,R-104,Engineering,DevOps Engineer,Applied,Job Board,2026-09-08,2026-09-14,6,s.malik@company.com
+C0266,R-201,Sales,Account Executive,Hired,LinkedIn,2026-08-16,2026-08-19,3,n.hussain@company.com
+C0147,R-102,Engineering,Frontend Engineer,Rejected,LinkedIn,2026-08-23,2026-08-30,7,s.malik@company.com
+C0052,R-103,Engineering,ML Engineer,Applied,Job Board,2026-08-07,2026-08-17,10,s.malik@company.com
+C0130,R-102,Engineering,Frontend Engineer,Applied,LinkedIn,2026-08-09,2026-08-20,11,s.malik@company.com
+C0249,R-201,Sales,Account Executive,Applied,Careers Page,2026-09-18,2026-09-30,12,n.hussain@company.com
+C0213,R-201,Sales,Account Executive,Onsite,Referral,2026-07-21,2026-07-25,4,n.hussain@company.com
+C0016,R-103,Engineering,ML Engineer,Onsite,Job Board,2026-09-17,2026-09-25,8,s.malik@company.com
+C0029,R-103,Engineering,ML Engineer,Applied,Job Board,2026-09-18,2026-09-23,5,
+C0145,R-102,Engineering,Frontend Engineer,Phone Screen,Job Board,2026-09-04,2026-09-30,26,s.malik@company.com
+C0325,R-302,Marketing,Growth Analyst,Applied,Job Board,2026-07-12,2026-07-23,11,f.ahmed@company.com
+C0093,R-104,Engineering,DevOps Engineer,Applied,LinkedIn,2026-08-22,2026-08-27,5,s.malik@company.com
+C0181,R-201,Sales,Account Executive,Applied,Agency,2026-08-08,2026-08-17,9,n.hussain@company.com
+C0136,R-104,Engineering,DevOps Engineer,Phone Screen,Job Board,2026-07-23,2026-08-25,33,s.malik@company.com
+C0115,R-103,Engineering,ML Engineer,Applied,LinkedIn,2026-07-29,2026-08-05,7,s.malik@company.com
+C0135,R-102,Engineering,Frontend Engineer,Phone Screen,Job Board,2026-08-05,2026-08-28,23,s.malik@company.com
+C0021,R-101,Engineering,Senior Backend Engineer,Rejected,Careers Page,2026-08-03,2026-08-13,10,s.malik@company.com
+C0202,R-202,Sales,Sales Development Rep,Onsite,LinkedIn,2026-08-24,2026-08-31,7,n.hussain@company.com
+C0224,R-201,Sales,Account Executive,Rejected,LinkedIn,2026-09-18,2026-09-27,9,n.hussain@company.com
+C0323,R-302,Marketing,Growth Analyst,Offer Extended,Careers Page,2026-07-11,2026-07-22,11,f.ahmed@company.com
+C0246,R-202,Sales,Sales Development Rep,Rejected,Job Board,2026-07-29,2026-08-02,4,n.hussain@company.com
+C0175,R-201,Sales,Account Executive,Applied,Agency,2026-09-25,2026-09-30,5,n.hussain@company.com
+C0064,R-103,Engineering,ML Engineer,Rejected,LinkedIn,2026-08-07,2026-08-11,4,s.malik@company.com
+C0196,R-201,Sales,Account Executive,Applied,Referral,2026-08-21,2026-08-29,8,n.hussain@company.com
+C0056,R-103,Engineering,ML Engineer,Phone Screen,LinkedIn,2026-07-21,2026-08-09,19,s.malik@company.com
+C0212,R-202,Sales,Sales Development Rep,Applied,Careers Page,2026-07-04,2026-07-07,3,n.hussain@company.com
+C0171,R-202,Sales,Sales Development Rep,Applied,Referral,2026-07-17,2026-07-20,3,n.hussain@company.com
+C0299,R-301,Marketing,Content Marketer,Phone Screen,Careers Page,2026-08-06,2026-08-21,15,f.ahmed@company.com
+C0138,R-104,Engineering,DevOps Engineer,Applied,Agency,2026-09-20,2026-09-22,2,s.malik@company.com
+C0194,R-201,Sales,Account Executive,Offer Extended,Careers Page,2026-09-04,2026-09-30,26,n.hussain@company.com
+C0273,R-202,Sales,Sales Development Rep,Rejected,Job Board,2026-08-02,2026-08-04,2,n.hussain@company.com
+C0234,R-201,Sales,Account Executive,Phone Screen,Referral,2026-07-08,2026-07-12,4,n.hussain@company.com
+C0141,R-103,Engineering,ML Engineer,Phone Screen,Job Board,2026-08-30,2026-09-30,31,
+C0180,R-201,Sales,Account Executive,Offer Extended,Job Board,2026-08-29,2026-09-21,23,n.hussain@company.com
+C0107,R-103,Engineering,ML Engineer,Applied,LinkedIn,2026-07-16,2026-07-22,6,s.malik@company.com
+C0303,R-302,Marketing,Growth Analyst,Hired,Careers Page,2026-08-30,2026-09-10,11,f.ahmed@company.com
+C0156,R-104,Engineering,DevOps Engineer,Phone Screen,Careers Page,2026-09-18,2026-09-30,12,s.malik@company.com
+C0328,R-301,Marketing,Content Marketer,Rejected,Referral,2026-09-10,2026-09-14,4,f.ahmed@company.com
+C0192,R-201,Sales,Account Executive,Applied,Referral,2026-07-31,2026-08-11,11,n.hussain@company.com
+C0317,R-301,Marketing,Content Marketer,Applied,LinkedIn,2026-08-17,2026-08-31,14,f.ahmed@company.com
+C0079,R-101,Engineering,Senior Backend Engineer,Onsite,LinkedIn,2026-09-05,2026-09-14,9,
+C0287,R-301,Marketing,Content Marketer,Phone Screen,Referral,2026-08-27,2026-08-30,3,f.ahmed@company.com
+C0313,R-301,Marketing,Content Marketer,Phone Screen,Job Board,2026-09-22,2026-09-30,8,f.ahmed@company.com
+C0113,R-104,Engineering,DevOps Engineer,Phone Screen,Referral,2026-09-24,2026-09-27,3,s.malik@company.com
+C0114,R-103,Engineering,ML Engineer,Phone Screen,Job Board,2026-08-16,2026-09-14,29,s.malik@company.com
+C0189,R-201,Sales,Account Executive,Rejected,Job Board,2026-09-14,2026-09-19,5,n.hussain@company.com
+C0300,R-301,Marketing,Content Marketer,Hired,Referral,2026-07-17,2026-07-24,7,f.ahmed@company.com
+C0271,R-201,Sales,Account Executive,Rejected,LinkedIn,2026-08-28,2026-08-30,2,n.hussain@company.com
+C0160,R-101,Engineering,Senior Backend Engineer,Applied,Referral,2026-07-19,2026-07-24,5,s.malik@company.com
+C0258,R-202,Sales,Sales Development Rep,Phone Screen,Agency,2026-08-17,2026-08-22,5,
+C0296,R-302,Marketing,Growth Analyst,Hired,Referral,2026-09-12,2026-09-16,4,f.ahmed@company.com
+C0082,R-104,Engineering,DevOps Engineer,Rejected,Job Board,2026-08-01,2026-08-14,13,s.malik@company.com
+C0158,R-103,Engineering,ML Engineer,Rejected,Job Board,2026-08-29,2026-09-01,3,s.malik@company.com
+C0239,R-202,Sales,Sales Development Rep,Rejected,Job Board,2026-09-17,2026-09-21,4,n.hussain@company.com
+C0061,R-104,Engineering,DevOps Engineer,Applied,Careers Page,2026-09-08,2026-09-15,7,s.malik@company.com
+C0032,R-104,Engineering,DevOps Engineer,Applied,Job Board,2026-09-02,2026-09-07,5,s.malik@company.com
+C0281,R-302,Marketing,Growth Analyst,Hired,Careers Page,2026-07-15,2026-07-18,3,f.ahmed@company.com
+C0185,R-201,Sales,Account Executive,Onsite,Agency,2026-08-16,2026-08-19,3,n.hussain@company.com
+C0283,R-302,Marketing,Growth Analyst,Applied,LinkedIn,2026-08-23,2026-08-30,7,f.ahmed@company.com
+C0006,R-101,Engineering,Senior Backend Engineer,Phone Screen,Referral,2026-08-03,2026-08-28,25,
+C0155,R-102,Engineering,Frontend Engineer,Applied,Job Board,2026-08-03,2026-08-10,7,s.malik@company.com
+C0169,R-103,Engineering,ML Engineer,Applied,LinkedIn,2026-08-06,2026-08-18,12,s.malik@company.com
+C0137,R-103,Engineering,ML Engineer,Applied,LinkedIn,2026-07-25,2026-08-01,7,s.malik@company.com
+C0229,R-201,Sales,Account Executive,Applied,LinkedIn,2026-09-16,2026-09-20,4,n.hussain@company.com
+C0121,R-104,Engineering,DevOps Engineer,Applied,LinkedIn,2026-09-12,2026-09-15,3,s.malik@company.com
+C0197,R-202,Sales,Sales Development Rep,Hired,Referral,2026-07-11,2026-07-15,4,n.hussain@company.com
+C0134,R-101,Engineering,Senior Backend Engineer,Rejected,Job Board,2026-08-04,2026-08-15,11,
+C0004,R-103,Engineering,ML Engineer,Offer Extended,LinkedIn,2026-07-25,2026-08-07,13,s.malik@company.com
+C0128,R-103,Engineering,ML Engineer,Phone Screen,Job Board,2026-08-03,2026-08-29,26,s.malik@company.com
+C0166,R-104,Engineering,DevOps Engineer,Applied,Referral,2026-08-26,2026-09-06,11,s.malik@company.com
+C0245,R-202,Sales,Sales Development Rep,Offer Extended,LinkedIn,2026-08-09,2026-08-28,19,n.hussain@company.com
+C0072,R-101,Engineering,Senior Backend Engineer,Applied,LinkedIn,2026-09-13,2026-09-24,11,s.malik@company.com
+C0095,R-104,Engineering,DevOps Engineer,Applied,Job Board,2026-08-25,2026-08-30,5,s.malik@company.com
+C0049,R-103,Engineering,ML Engineer,Phone Screen,Agency,2026-09-10,2026-09-28,18,s.malik@company.com
+C0206,R-202,Sales,Sales Development Rep,Rejected,Agency,2026-08-24,2026-09-08,15,n.hussain@company.com
+C0045,R-103,Engineering,ML Engineer,Applied,Job Board,2026-08-04,2026-08-10,6,s.malik@company.com
+C0168,R-101,Engineering,Senior Backend Engineer,Rejected,Job Board,2026-08-06,2026-08-20,14,s.malik@company.com
+C0264,R-202,Sales,Sales Development Rep,Offer Extended,LinkedIn,2026-09-04,2026-09-30,26,n.hussain@company.com
+C0219,R-202,Sales,Sales Development Rep,Rejected,Careers Page,2026-08-02,2026-08-08,6,n.hussain@company.com
+C0208,R-201,Sales,Account Executive,Applied,Job Board,2026-07-14,2026-07-21,7,n.hussain@company.com
+C0333,R-302,Marketing,Growth Analyst,Phone Screen,Referral,2026-09-15,2026-09-19,4,f.ahmed@company.com
+C0321,R-302,Marketing,Growth Analyst,Offer Extended,Referral,2026-09-11,2026-09-17,6,f.ahmed@company.com
+C0322,R-302,Marketing,Growth Analyst,Onsite,LinkedIn,2026-08-19,2026-08-31,12,f.ahmed@company.com
+C0152,R-104,Engineering,DevOps Engineer,Phone Screen,Job Board,2026-07-31,2026-09-02,33,s.malik@company.com
+C0173,R-202,Sales,Sales Development Rep,Offer Extended,Careers Page,2026-07-22,2026-08-13,22,n.hussain@company.com
+C0008,R-103,Engineering,ML Engineer,Phone Screen,Job Board,2026-07-10,2026-08-18,39,s.malik@company.com
+C0327,R-301,Marketing,Content Marketer,Onsite,Careers Page,2026-08-30,2026-09-14,15,f.ahmed@company.com
+C0132,R-103,Engineering,ML Engineer,Phone Screen,Job Board,2026-07-15,2026-08-21,37,
+C0235,R-201,Sales,Account Executive,Offer Extended,Agency,2026-07-12,2026-08-14,33,n.hussain@company.com
+C0084,R-104,Engineering,DevOps Engineer,Phone Screen,LinkedIn,2026-07-21,2026-08-30,40,s.malik@company.com
+C0170,R-102,Engineering,Frontend Engineer,Phone Screen,Careers Page,2026-09-21,2026-09-30,9,s.malik@company.com
+C0058,R-104,Engineering,DevOps Engineer,Rejected,Job Board,2026-08-11,2026-08-26,15,s.malik@company.com
+C0099,R-101,Engineering,Senior Backend Engineer,Onsite,LinkedIn,2026-08-09,2026-08-12,3,s.malik@company.com
+C0140,R-101,Engineering,Senior Backend Engineer,Phone Screen,Job Board,2026-08-22,2026-09-10,19,s.malik@company.com
+C0240,R-202,Sales,Sales Development Rep,Onsite,Careers Page,2026-09-25,2026-09-30,5,
+C0259,R-201,Sales,Account Executive,Rejected,Job Board,2026-07-19,2026-07-23,4,
+C0069,R-101,Engineering,Senior Backend Engineer,Phone Screen,Referral,2026-08-09,2026-09-01,23,s.malik@company.com
+C0253,R-202,Sales,Sales Development Rep,Offer Extended,Referral,2026-07-21,2026-08-02,12,n.hussain@company.com
+C0269,R-201,Sales,Account Executive,Rejected,Careers Page,2026-08-12,2026-08-16,4,
+C0279,R-302,Marketing,Growth Analyst,Onsite,Job Board,2026-07-29,2026-08-11,13,f.ahmed@company.com
+C0233,R-202,Sales,Sales Development Rep,Offer Extended,Careers Page,2026-09-14,2026-09-29,15,n.hussain@company.com
+C0146,R-104,Engineering,DevOps Engineer,Rejected,LinkedIn,2026-09-20,2026-09-24,4,s.malik@company.com
+C0172,R-202,Sales,Sales Development Rep,Rejected,LinkedIn,2026-07-17,2026-07-31,14,n.hussain@company.com
+C0055,R-101,Engineering,Senior Backend Engineer,Applied,Agency,2026-07-20,2026-07-30,10,
+C0309,R-301,Marketing,Content Marketer,Applied,Careers Page,2026-09-17,2026-09-25,8,f.ahmed@company.com
+C0291,R-302,Marketing,Growth Analyst,Rejected,Job Board,2026-07-30,2026-08-13,14,f.ahmed@company.com
+C0153,R-102,Engineering,Frontend Engineer,Phone Screen,Job Board,2026-07-13,2026-08-27,45,s.malik@company.com
+C0005,R-103,Engineering,ML Engineer,Applied,Agency,2026-08-17,2026-08-20,3,s.malik@company.com
+C0338,R-301,Marketing,Content Marketer,Hired,LinkedIn,2026-08-22,2026-08-29,7,f.ahmed@company.com
+C0149,R-104,Engineering,DevOps Engineer,Rejected,Job Board,2026-09-11,2026-09-18,7,s.malik@company.com
+C0096,R-101,Engineering,Senior Backend Engineer,Onsite,Agency,2026-07-26,2026-08-10,15,
+C0254,R-201,Sales,Account Executive,Rejected,LinkedIn,2026-08-31,2026-09-15,15,n.hussain@company.com
+C0204,R-201,Sales,Account Executive,Applied,LinkedIn,2026-08-17,2026-08-31,14,n.hussain@company.com
+C0019,R-104,Engineering,DevOps Engineer,Phone Screen,Agency,2026-07-13,2026-08-21,39,s.malik@company.com
+C0091,R-104,Engineering,DevOps Engineer,Onsite,Careers Page,2026-07-28,2026-08-08,11,s.malik@company.com
+C0214,R-202,Sales,Sales Development Rep,Rejected,Job Board,2026-07-11,2026-07-27,16,
+C0090,R-102,Engineering,Frontend Engineer,Phone Screen,LinkedIn,2026-09-01,2026-09-19,18,s.malik@company.com
+C0020,R-103,Engineering,ML Engineer,Onsite,Referral,2026-08-11,2026-08-15,4,s.malik@company.com
+C0274,R-201,Sales,Account Executive,Phone Screen,Careers Page,2026-07-07,2026-07-22,15,n.hussain@company.com
+C0119,R-103,Engineering,ML Engineer,Phone Screen,LinkedIn,2026-09-05,2026-09-26,21,s.malik@company.com
+C0294,R-301,Marketing,Content Marketer,Hired,LinkedIn,2026-08-09,2026-08-17,8,f.ahmed@company.com
+C0334,R-302,Marketing,Growth Analyst,Rejected,Careers Page,2026-07-26,2026-08-01,6,
+C0046,R-103,Engineering,ML Engineer,Phone Screen,Agency,2026-07-14,2026-08-01,18,s.malik@company.com
+C0031,R-103,Engineering,ML Engineer,Phone Screen,LinkedIn,2026-07-21,2026-08-31,41,s.malik@company.com

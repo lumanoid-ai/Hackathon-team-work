@@ -1,0 +1,9 @@
+req_id,department,role,target_hires,hires_to_date,opened_date,hiring_manager,status
+R-101,Engineering,Senior Backend Engineer,3,1,2026-06-15,S Malik,Open
+R-102,Engineering,Frontend Engineer,2,0,2026-06-20,S Malik,Open
+R-103,Engineering,ML Engineer,2,1,2026-07-05,S Malik,Open
+R-104,Engineering,DevOps Engineer,1,0,2026-07-12,S Malik,Open
+R-201,Sales,Account Executive,4,3,2026-06-10,N Hussain,Open
+R-202,Sales,Sales Development Rep,3,4,2026-07-01,N Hussain,Filled
+R-301,Marketing,Content Marketer,3,5,2026-06-25,F Ahmed,Filled
+R-302,Marketing,Growth Analyst,2,4,2026-07-08,F Ahmed,Filled
